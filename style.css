@@ -1,0 +1,7 @@
+a{
+    text-decoration: none;
+}
+.img-noPadd{
+    padding-inline-start: 0rem;
+    padding-inline-end: 0rem;
+}
